@@ -1,4 +1,4 @@
-
+//Code 166
 package Patterns4;
 public class Pattern88 {
 	public static void main(String[] args) {
