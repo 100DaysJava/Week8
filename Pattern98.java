@@ -1,4 +1,4 @@
-
+//Patterns series
 package Patterns5;
 public class Pattern98 {
 	public static void main(String[] args) {
